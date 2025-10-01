@@ -48,6 +48,7 @@ def reset_data():
         print("Reset dibatalkan.\n")
         return load_data()
 
+
 # Main program
 def main():
     data = load_data()
